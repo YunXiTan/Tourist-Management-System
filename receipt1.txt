@@ -1,0 +1,15 @@
+--------Breezy Island Travel Agency--------
+-------------Receipt-------------
+_________________________________
+Bill ID: B22TM0001
+Name: an Yun Xi
+
+Description			 Total
+Flight cost:		 960.00
+Hotel cost:			240.00
+Travel (cab) cost:	 450.00
+Activity cost:	 880.00
+_________________________________
+Total Charge:		 2530.00
+_________________________________
+------------THANK YOU------------
